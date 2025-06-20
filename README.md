@@ -1,0 +1,2 @@
+# blackcowmainnet
+blackcow-assets
